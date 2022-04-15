@@ -51,6 +51,7 @@ de mercado financeiro, minha principal linguagem e MQL5, oriunda de C++.
   
 ![Snake animation](https://github.com/github-joao-pedro/github-joao-pedro/blob/output/github-contribution-grid-snake.svg)
   
+    
 <!-- <div>
   <a href="https://github.com/github-joao-pedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=github-joao-pedro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
