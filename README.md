@@ -1,16 +1,18 @@
-### Hi there 👋
+### Eai, mano!! 👋
 
-<!--
-**github-joao-pedro/github-joao-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Trabalho atualmente em deselvolvimento de robôs para mercado financeiro
 
-Here are some ideas to get you started:
+🧠 Estou aprendendo a ter mais paciência para corrigir erros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯‍♀️ Procuro colaborar em projetos voltado para altomação
+
+💬 Me pergunte qualquer coisa, menos como fazer uma mesa, sou pessimo nisso!
+
+📫 Quiser falar comigo chama DM: @joaopedro._ms
+
+⚡️ Fatos engraçados gosto de Jazz
+
+## 🚀 Sobre mim
+Eu sou desenvolvedor a mais de 1 ano, voltado para altomação de estratégias
+de mercado financeiro, minha principal linguagem e MQL5, oriunda de C++.
+
