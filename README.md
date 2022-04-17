@@ -23,8 +23,8 @@
 <div>
   <a href="https://t.me/JoaoPedroSampaio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <a href="mailto:mendoncajoaopedro441@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://gitlab.com/Joao_P" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
   <a href="" target="_blank"><img src="https://badgen.net/badge/GitHub/ /?icon=github">
 <!--   <a href=" " target="_blank"><img src="https://img.shields.io/github/followers/rafaballerini.svg?style=social&label=Follow&maxAge=2592000"> -->
 </div>
