@@ -12,8 +12,13 @@
 <!-- Linguagem de programação -> MQL5, Python, Java -->
 <div>
   <img align="center" alt="MQL5", height="60" width="60" src="https://www.next-post.com/wp-content/uploads/2020/06/langage-mql5-300x336.png">
-  <img align="center" alt="Python", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="HTML", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Javascript", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Angular", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Java", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Python", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
 <!-- Divisão -->
