@@ -2,9 +2,9 @@
 
 <!-- Tabela -->
 <div>
-  <a href="https://github.com/github-joao-pedro">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=github-joao-pedro&show_icons=true&theme=react&hide_border=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-joao-pedro&border_radius=false&show_icons=true&theme=react&hide_border=true"/>
+  <a href="https://github.com/joaopedrodevms">
+    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=joaopedrodevms&show_icons=true&theme=react&hide_border=true"/>
+  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrodevms&border_radius=false&show_icons=true&theme=react&hide_border=true"/>
 </div>
 
 ##
