@@ -1,4 +1,19 @@
-🚀 Desenvolvedor MQL5
+# João Pedro Mendonca Sampaio
+
+Gosto de construir sistemas que façam sentido, que sejam simples de entender e difíceis de quebrar. Escrevo código com atenção, evito soluções desnecessariamente complicadas e acredito que clareza vale mais que truque.
+
+Nem todo projeto precisa reinventar a roda. Mas todos precisam funcionar bem.
+
+---
+
+## O que eu uso no dia a dia
+
+- **Back-end:** Java, Spring Boot, Python, FastAPI, SQL, Docker
+- **Front-end:** Angular, React
+- **Outros terrenos:** MQL4/MQL5 (robôs e automações para trading)  
+- **Práticas:** Clean code, arquitetura limpa, testes, versionamento decente  
+
+---
 
 <!-- Tabela -->
 <div>
@@ -8,29 +23,14 @@
 </div>
 
 ##
-  
-<!-- Linguagem de programação -> MQL5, Python, Java -->
-<div>
-  <img align="center" alt="MQL5", height="60" width="60" src="https://www.next-post.com/wp-content/uploads/2020/06/langage-mql5-300x336.png">
-  <img align="center" alt="HTML", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Javascript", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Bootstrap", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Angular", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Java", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Python", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-
-<!-- Divisão -->
-##
 
 <!-- Redes sociais / contato -->
 <div>
   <a href="https://t.me/JoaoPedroSampaio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <a href="mailto:mendoncajoaopedro441@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://gitlab.com/Joao_P" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-  <a href="" target="_blank"><img src="https://badgen.net/badge/GitHub/ /?icon=github">
-<!--   <a href=" " target="_blank"><img src="https://img.shields.io/github/followers/rafaballerini.svg?style=social&label=Follow&maxAge=2592000"> -->
+  <a href="https://www.linkedin.com/in/joaopedrodev-ms/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+<!-- Divisão -->
+##
